@@ -4,7 +4,7 @@
 
 It is a high-level programming language. It makes writing, compiling and debugging programming easier.
 
-Allows developers to write once run anywhere.Programs written in java can be reused and can run on all platforms that support java.
+Allows developers to write once run anywhere. Programs written in java can be reused and can run on all platforms that support java.
 
 > **Advantages of Java**
 - **Object-Oriented**
@@ -46,10 +46,10 @@ Allows developers to write once run anywhere.Programs written in java can be reu
 
 2. **Object-Oriented Programming Language**:- Java Language is considered an object-oriented language because it is based on the concept of objects and classes. Without the creation of objects and classes, it is impossible to write any code in Java. 
 > OOPS concepts:-
-    - **Inheritance**
-    - **Data abstraction**
-    - **Polymorphism**
-    - **Data Encapsulation**
+   - **Inheritance**
+   - **Data abstraction**
+   - **Polymorphism**
+   - **Data Encapsulation**
 
 3. **Simple**:- Java is one of the simple languages as it does not have pointers, operator overloading, multiple inheritances and explicit memory allocations.
 
@@ -102,4 +102,4 @@ Syntax:-
 9. **String [] args**:- This is the argument passed to the main function which is an array of strings with the array name args. 
 
 
-## So , This brings an end to DAY1 -> let's catch on [DAY2](https://github.com/manjunathnmessi/Mission-Google/tree/master/Day2)
+### So , This brings an end to DAY1 -> let's catch on [DAY2](https://github.com/manjunathnmessi/Mission-Google/tree/master/Day2)
