@@ -1,4 +1,4 @@
-//Basics of Java
+//Basic Example  of Java
 class Learn {
 
     public static void main(String [] args) throws Exception{
@@ -6,3 +6,5 @@ class Learn {
         System.out.println("Learning Java Programming");
     }
 }
+
+//Output :- Learning Java Programming
