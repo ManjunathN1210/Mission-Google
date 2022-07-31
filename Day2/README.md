@@ -70,5 +70,5 @@ Scanner class can be made use to accept user input from users. One has to import
 
 > ### Practice Work 1:- Write a program to add two numbers with input taken from user.
 
-Once trying to write your own program [check this](https://github.com/manjunathnmessi/Mission-Google/blob/master/Day2/Programs/Sum_Two_Numbers.java)
+Once after trying to write your own program [check this](https://github.com/manjunathnmessi/Mission-Google/blob/master/Day2/Programs/Sum_Two_Numbers.java)
 
