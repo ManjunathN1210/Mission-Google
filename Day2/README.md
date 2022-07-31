@@ -16,3 +16,19 @@
 | **Language Type**         | Java is an object oriented language                                  | C++ is both a procedural and object oriented language          |
 | **Structures and Unions** | Java doesnt support structures and unions                            | C++ supports Structures and Unions                             |
 
+### Syntax of JAVA
+
+#### Basic Terminologies of Java
+
+1. **Class**:- The class is a blueprint(plan) of the instance of the class(object). It can be defined as a template that describes the data and behaviour associated with its instance.
+        Ex:- Blueprint of the house is class.
+
+2. **Object**:- The object is an instance of the class. It is an entity that has behaviour and state. 
+        Ex:- A car is an object whose states are:- brand, color and number plate.
+             **Behaviour**:- Driving on the road.
+
+3. **Method**:- The behaviour of the object is the method.
+        Ex:- Fuel indicator indicates the amount of fuel left in the car.
+
+4. **Instance Variables**:- Every object has its own unique set of instance variables. The state of an object is generally created by the values that are assigned to these instance variables.
+
