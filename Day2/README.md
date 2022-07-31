@@ -36,7 +36,6 @@
 A Literal is a constant value which can be assigned to a variable.
 Ex:- int age = 56;
 
-
 > #### DataTypes in Java
 
 1. **byte** :- byte age = 34;
@@ -72,3 +71,4 @@ Scanner class can be made use to accept user input from users. One has to import
 
 Once after trying to write your own program [check this](https://github.com/manjunathnmessi/Mission-Google/blob/master/Day2/Programs/Sum_Two_Numbers.java)
 
+### Ah, thats for DAY2 -> let's have more fun on [DAY3](https://github.com/manjunathnmessi/Mission-Google/tree/master/Day3)
