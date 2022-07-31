@@ -2,7 +2,6 @@
 
 > **Differences between Java and C++**
 
-
 |       **Parameters**      | **Java**                                                             | **C++**                                                        |
 |:-------------------------:|----------------------------------------------------------------------|----------------------------------------------------------------|
 | **Founder**               | **James Gosling at Sun MicroSystems**                                | **Bjarne Strastrup at Bell Labs**                              |
@@ -48,7 +47,7 @@ Ex:- int age = 56;
 6. **float** :- float f1 = 5.6f;
 7. **double** :- double d1 = 4.564;
 8. **boolean** :- boolean yes = true/false;
-
+      
 > #### Keywords in Java
 These are the words that are reserved by the compiler and cannot be used as an identifier.
 
@@ -63,4 +62,13 @@ These are the words that are reserved by the compiler and cannot be used as an i
 |   **char**   |   **final**  |  **interface** |   **static**  |     **void**     |
 |   **class**  |  **finally** |    **long**    |  **strictfp** |   **volatile**   |
 |   **const**  |   **float**  |   **native**   |   **super**   |     **while**    |
+
+> ### User Input Function in Java
+
+Scanner class can be made use to accept user input from users. One has to import Scanner class from java.lang in order to accept user inputs.
+[Click here to view program to accept user input](https://github.com/manjunathnmessi/Mission-Google/blob/master/Day2/Programs/Basic_Program.java)
+
+> ### Practice Work 1:- Write a program to add two numbers with input taken from user.
+
+Once trying to write your own program [check this](https://github.com/manjunathnmessi/Mission-Google/blob/master/Day2/Programs/Sum_Two_Numbers.java)
 
