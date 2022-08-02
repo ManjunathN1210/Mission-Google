@@ -25,37 +25,37 @@ public class CGPA_Generator {
             total_credits = total_credits + no_of_credits;
             if(subject.equals("S"))
             {
-                cgpa = cgpa + (no_of_credits*10);
+                cgpa += (no_of_credits*10);
                 System.out.println("CGPA is " + cgpa);
             }
             else if(subject.equals("A"))
             {
-                cgpa = cgpa + (no_of_credits*9);
+                cgpa +=  (no_of_credits*9);
                 System.out.println("CGPA is " + cgpa);
             }
             else if(subject.equals("B"))
             {
-                cgpa = cgpa + (no_of_credits*8);
+                cgpa +=  (no_of_credits*8);
                 System.out.println("CGPA is " + cgpa);
             }
             else if(subject.equals("C"))
             {
-                cgpa = cgpa + (no_of_credits*7);
+                cgpa += (no_of_credits*7);
                 System.out.println("CGPA is " + cgpa);
             }
             else if(subject.equals("D"))
             {
-                cgpa = cgpa + (no_of_credits*6);
+                cgpa +=  (no_of_credits*6);
                 System.out.println("CGPA is " + cgpa);
             }
             else if(subject.equals("E"))
             {
-                cgpa = cgpa + (no_of_credits*5);
+                cgpa +=  (no_of_credits*5);
                 System.out.println("CGPA is " + cgpa);
             }
             else
             {
-                cgpa = cgpa + (no_of_credits*0);
+                cgpa += (no_of_credits*0);
                 System.out.println("CGPA is " + cgpa);
             }
         }
@@ -73,12 +73,12 @@ public class CGPA_Generator {
 
             total_cgpa = (previous_cgpa + total_sgpa)/2;
             System.out.println("Your Final Cgpa is " + total_cgpa);
-            System.out.println("Thank You For your Time");
 
         }
         else{
             System.out.println("Your Final Cgpa is " + total_sgpa);
             System.out.println("Thank You For your Time");
+
         }
         
     }
