@@ -31,14 +31,14 @@ Operators are used to perform operations on variables or values.
 > ### Precedence of Operators
 
 Easiest way to remember the precedence order is
-**P** - Parenthesis(1)
-**E** - Exponential(1)
-**M** - Multiplication(2)
-**D** - Division(2)
-**A** - Addition(3)
-**S** - Subtraction(3)
+    **P** - Parenthesis(1)
+    **E** - Exponential(1)
+    **M** - Multiplication(2)
+    **D** - Division(2)
+    **A** - Addition(3)
+    **S** - Subtraction(3)
+    **PEMDAS**
 
-**PEMDAS**
 The Precedence of the operators are decided in the order from Left to Right if there is a clash between two operators with same precedence.
 
 ++ and = associativity order is from Right to Left.
@@ -46,7 +46,9 @@ The Precedence of the operators are decided in the order from Left to Right if t
 > #### Examples
     int x = 6;
     int y = 12;
-    int k = x * (y/2); -> Output:- 36
+    int k = x * (y/2); 
+    
+    Output:- 36
 
 > ### DataTypes of Expressions 
 
