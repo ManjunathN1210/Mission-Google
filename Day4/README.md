@@ -186,7 +186,7 @@ Conditional statements are mostly used in decision-making scenarios which means 
     int age = 19;
     if(age > 18)
     {
-        System.out.println("Congrajulations!! You have the right to drive a vehicle);
+        System.out.println("Congratulations!! You have the right to drive a vehicle);
     }
     (else block is optional)
 
@@ -229,4 +229,4 @@ Three logical operators are
     !Y = N
     !N = Y
 
-    
+### Tried a lot on DAY4 -> let's invest the same on [DAY5](https://github.com/manjunathnmessi/Mission-Google/tree/master/Day5)
