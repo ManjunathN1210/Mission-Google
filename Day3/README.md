@@ -31,6 +31,7 @@ Operators are used to perform operations on variables or values.
 > ### Precedence of Operators
 
 Easiest way to remember the precedence order is
+
     **P** - Parenthesis(1)
     **E** - Exponential(1)
     **M** - Multiplication(2)
@@ -62,3 +63,42 @@ Resulting data type after arithmetic operation
 | **Result** |  char |  short |   **int**  |
 | **Result** |  long | double | **double** |
 | **Result** | float | double | **double** |
+
+> ### Increment and Decrement Operators
+
+a++, ++a -> Increment Operator
+a--, --a -> Decrement Operator
+
+i++ always tells to print first and then increment a variable
+++i always tells to increment first and then print the value of the variable.
+
+    int i = 56;
+    int b = i++;  //first b is assigned i (56) and then i is incremented (57)
+    int j = 67;
+    int c = ++i; //first j is incremented (68) and then j is assigned to c (68)
+
+> ### Practice Work 4:- What will be the value of the following expression. Find the value of x
+
+    int y = 7;
+    int x = ++y*8;
+    System.out.println(x)
+
+    //Output:- 64
+
+### Practice Work 5:- What is the result of the following expression -> float a = 7/4 * 9/2
+
+Compare Solution with this -> [Click Here !!!](https://github.com/manjunathnmessi/Mission-Google/blob/master/Day3/Programs/Evaluate_Expression.java)
+
+### Practice Work 6:- Write a Java Program to encrypt a grade by adding 8 to it. Decrypt it to show the correct grade
+
+Compare Solution with this -> [Click Here !!!](https://github.com/manjunathnmessi/Mission-Google/blob/master/Day3/Programs/Encrypt_Grade.java)
+
+### Practice Work 6:- Write a Java Program to compare a number with user entered number using comparison operators
+
+Compare Solution with this -> [Click Here !!!](https://github.com/manjunathnmessi/Mission-Google/blob/master/Day3/Programs/Compare_Value.java)
+
+### Practice Work 6:- Write a Java Program to compare a number with user entered number using comparison operators
+
+Compare Solution with this -> [Click Here !!!](https://github.com/manjunathnmessi/Mission-Google/blob/master/Day3/Programs/Compare_Value.java)
+
+### Guess we had some good time on DAY3 -> let's fire it up on [DAY4](https://github.com/manjunathnmessi/Mission-Google/tree/master/Day4)
