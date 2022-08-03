@@ -80,6 +80,6 @@ public class CGPA_Generator {
             System.out.println("Thank You For your Time");
 
         }
-        
+        scanner.close();
     }
 }

@@ -97,8 +97,4 @@ Compare Solution with this -> [Click Here !!!](https://github.com/manjunathnmess
 
 Compare Solution with this -> [Click Here !!!](https://github.com/manjunathnmessi/Mission-Google/blob/master/Day3/Programs/Compare_Value.java)
 
-### Practice Work 6:- Write a Java Program to compare a number with user entered number using comparison operators
-
-Compare Solution with this -> [Click Here !!!](https://github.com/manjunathnmessi/Mission-Google/blob/master/Day3/Programs/Compare_Value.java)
-
 ### Guess we had some good time on DAY3 -> let's fire it up on [DAY4](https://github.com/manjunathnmessi/Mission-Google/tree/master/Day4)

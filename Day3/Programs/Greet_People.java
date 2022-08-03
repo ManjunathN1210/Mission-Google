@@ -10,5 +10,8 @@ public class Greet_People {
         name = scanner.nextLine();
         System.out.println("Hello " + name + " Have a Good Day");
         
+        scanner.close();
+
     }
 }
+
