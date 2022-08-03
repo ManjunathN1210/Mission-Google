@@ -32,13 +32,13 @@ Operators are used to perform operations on variables or values.
 
 Easiest way to remember the precedence order is
 
-    **P** - Parenthesis(1)
-    **E** - Exponential(1)
-    **M** - Multiplication(2)
-    **D** - Division(2)
-    **A** - Addition(3)
-    **S** - Subtraction(3)
-    **PEMDAS**
+    P - Parenthesis(1)
+    E - Exponential(1)
+    M - Multiplication(2)
+    D - Division(2)
+    A - Addition(3)
+    S - Subtraction(3)
+    PEMDAS
 
 The Precedence of the operators are decided in the order from Left to Right if there is a clash between two operators with same precedence.
 
