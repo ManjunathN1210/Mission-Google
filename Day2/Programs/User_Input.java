@@ -10,5 +10,6 @@ public class User_Input {
         n = sc.nextInt(); 
 
         System.out.println("The value of n is " + n);
+        sc.close();
     }
 }

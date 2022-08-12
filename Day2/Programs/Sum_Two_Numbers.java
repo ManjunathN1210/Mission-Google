@@ -13,5 +13,6 @@ public class Sum_Two_Numbers {
         //Add two numbers using + operator
         sum = a+b;
         System.out.println("The value of two numbers is " + sum);
+        sc.close();
     }
 }

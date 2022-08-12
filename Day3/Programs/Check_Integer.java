@@ -8,5 +8,7 @@ public class Check_Integer {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please Enter an Integer Number");
         System.out.println(scanner.hasNextInt());
+
+        scanner.close();
     }
 }

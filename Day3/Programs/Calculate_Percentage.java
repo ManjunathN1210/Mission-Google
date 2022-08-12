@@ -32,5 +32,6 @@ public class Calculate_Percentage {
         total_percentage = (marks1+marks2+marks3+marks4+marks5)/avg*100;
 
         System.out.println("Total Percentage of the Student is " + total_percentage + "%");
+        scanner.close();
     }
 }

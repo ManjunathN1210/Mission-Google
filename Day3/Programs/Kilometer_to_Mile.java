@@ -36,5 +36,7 @@ public class Kilometer_to_Mile {
         {
             System.out.println("Please Enter Correct Option");
         }
+
+        scanner.close();
     }   
 }
