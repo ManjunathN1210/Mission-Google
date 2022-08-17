@@ -14,8 +14,7 @@ public class Multiplication_Table {
         {
             System.out.println(n + " X " + i + " = " + n*i);
         }
-        System.out.println("\n");
-        System.out.println("Multiplication Table of "+ n + "In Reverse Order");
+        System.out.println("Multiplication Table of "+ n + " In Reverse Order");
         for(int  j = 10; j>=1; j--)
         {
             System.out.println(n + " X " + j + " = " + n*j);

@@ -68,6 +68,15 @@ It specifies where a property/method is accessible. There are four types of acce
 3. Public
 4. Protected
 
+|   **Modifier**  | **Class** | **Package** | **SubClass** | **World** |
+|:---------------:|:---------:|:-----------:|:------------:|:---------:|
+|    **Public**   |     Y     |      Y      |       Y      |     Y     |
+|  **Protected**  |     Y     |      Y      |       Y      |     N     |
+| **No Modifier** |     Y     |      Y      |       N      |     N     |
+|   **Private**   |     Y     |      N      |       N      |     N     |
+
+Easiest way to remember access is Y - > 4,3,2,1
+
 #### Getters and Setters
 Getter -> Returns the value [accessors]
 Setter -> Set/Update the value [mutators]

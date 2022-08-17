@@ -121,19 +121,19 @@ Compare Solution with this -> [Click Here !!!](https://github.com/manjunathnmess
 
 Compare Solution with this -> [Click Here !!!](https://github.com/manjunathnmessi/Mission-Google/blob/master/Day8/Programs/Print_Pattern.java)
 
- > ### Practice Work 3:- Write a Java Program to calculate sum of first n numbers
+> ### Practice Work 3:- Write a Java Program to calculate sum of first n numbers
 
 Compare Solution with this -> [Click Here !!!](https://github.com/manjunathnmessi/Mission-Google/blob/master/Day8/Programs/Sum_N_Numbers.java)
 
- > ### Practice Work 4:- Write a Java Program to print Fibanacci series of n number
+> ### Practice Work 4:- Write a Java Program to print Fibanacci series of n number
 
 Compare Solution with this -> [Click Here !!!](https://github.com/manjunathnmessi/Mission-Google/blob/master/Day8/Programs/Fibonacci_Series.java)
 
- > ### Practice Work 5:- Write a Java Program to find average of a set of numbers passed as arguments
+> ### Practice Work 5:- Write a Java Program to find average of a set of numbers passed as arguments
 
 Compare Solution with this -> [Click Here !!!](https://github.com/manjunathnmessi/Mission-Google/blob/master/Day8/Programs/Average_Set_Numbers.java)
 
- > ### Practice Work 6:- Write a Java Program to convert Celsius to Temperature
+> ### Practice Work 6:- Write a Java Program to convert Celsius to Temperature
 
 Compare Solution with this -> [Click Here !!!](https://github.com/manjunathnmessi/Mission-Google/blob/master/Day8/Programs/Celsius_To_Temperature.java)
 

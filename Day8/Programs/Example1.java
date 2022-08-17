@@ -1,4 +1,4 @@
-public class Example {
+public class Example1 {
 
     /*If a method is called from main method (static method) without the creation of object of class then method should be of static type
     Static methods dont get associated with an object , it directly gets associated with an object
@@ -37,7 +37,7 @@ public class Example {
 public static void main(String[] args) {
     
     int x=10, y=5, z;
-    Example obj = new Example(); // Method invocation using object creation
+    Example1 obj = new Example1(); // Method invocation using object creation
     
     z = obj.logic(x, y); // logic(10,5) --> z = 15
     System.out.println(z); 
