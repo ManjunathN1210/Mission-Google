@@ -67,7 +67,7 @@ Allows developers to write once run anywhere. Programs written in java can be re
 
 10. **Dynamic Flexibility**:- Java being completely object-oriented gives us the flexibility to add classes,  new methods to existing classes and even create new classes through sub-classes. Java even supports functions written in other languages such as C, C++ which are referred to as native methods.
 
-#### Basics of a Java Program [Click Here to view the Program](https://github.com/manjunathnmessi/Mission-Google/blob/master/Day1/Learn.java):-
+#### Basics of a Java Program [Click Here to view the Program](https://github.com/manjunathnmessi/Mission-Google/blob/master/Day1/Day1/Learn.java)
 
 1. **Comments**:- Comments are used for explaining code and are used in a similar manner in Java or C or C++. Compilers ignore the comment entries and do not execute them. Comments can be of a single line or multiple lines.
 
